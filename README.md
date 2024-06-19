@@ -1,5 +1,5 @@
 -  Hi, I’m @AnushM55
--  Currently learning anything that I could get my hands on
+-  Currently learning [Go](https://go.dev/) and Web Dev
 -  Pronouns: he/him/they
 
 <!---
