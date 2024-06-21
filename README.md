@@ -1,5 +1,5 @@
 -  Hi, I’m @AnushM55
--  Currently learning [Go](https://go.dev/) and Web Dev
+-  Currently learning Systems programming and Web Dev
 -  Pronouns: he/him/they
 
 <!---
