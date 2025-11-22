@@ -1,6 +1,6 @@
 -  Hi, I’m @AnushM55
 -  Currently learning Systems programming and Web Dev
--  Pronouns: he/him/they
+-  Pronouns: he/him
 
 <!---
 AnushM55/AnushM55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
